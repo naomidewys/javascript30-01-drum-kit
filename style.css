@@ -1,6 +1,7 @@
 html {
   font-size: 10px;
-  background: url("./background.jpg") bottom center;
+  background: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/110/081/original/pexels-mark-angelo-sampan-1587927.jpg?1704938738")
+    bottom center;
   background-size: cover;
 }
 
@@ -29,7 +30,7 @@ html {
   width: 10rem;
   text-align: center;
   color: white;
-  background: rgba(0, 0, 0, 0.4);
+  background: indigo;
   text-shadow: 0 0 0.5rem black;
 }
 
